@@ -19,6 +19,6 @@ A Machine Learning and NLP based web application that detects whether a news art
 
 This system allows users to enter news text and instantly predict whether the news is REAL ✅ or FAKE ❌ through an interactive web interface.
 
-##👩‍💻 Author
+👩‍💻 Author
 
 Itishree Jain
