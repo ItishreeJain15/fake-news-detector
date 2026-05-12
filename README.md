@@ -15,3 +15,10 @@ A Machine Learning and NLP based web application that detects whether a news art
   - Confusion Matrix
 
 ## 🛠️ Technologies Used:- Python, Scikit-learn, Pandas, NumPy, Streamlit, Matplotlib
+## 🌐 Project Outcome
+
+This system allows users to enter news text and instantly predict whether the news is REAL ✅ or FAKE ❌ through an interactive web interface.
+
+##👩‍💻 Author
+
+Itishree Jain
